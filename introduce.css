@@ -32,11 +32,17 @@ h1 {
 	margin-bottom: 2rem;
 }
 h2 {
-	color: #777;
+	color: #FF2D00;
 	font-size: 4rem;
 	font-weight: 400;
 }
 .image {
 	margin-top: 10rem;
 	margin-bottom: 5rem;
+}
+
+h2 {
+	color: #FFFFFF;
+	font-size: 4rem;
+	font-weight: 300;
 }
